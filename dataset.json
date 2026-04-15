@@ -1,0 +1,22 @@
+{
+  "base_price": 3750,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Regional restaurant data for the Huntington-Ashland (Metro), WV-KY-OH metropolitan area, spanning Huntington and Ashland. Covers a growing metropolitan dining market, filtered by the Restaurants category group. Includes verified business profiles, review analytics, competitive rankings, and contact details. Refreshed weekly.",
+  "config_name": "All Restaurants in Huntington-Ashland (Metro), WV-KY-OH, US",
+  "export_job_id": "16385e5f-767f-4ff9-8e4b-309562299546",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 746041,
+  "location_name": "Huntington-Ashland, WV-KY-OH",
+  "location_type": "metro",
+  "repo_name": "all-restaurants-in-huntington-ashland-metro-wv-ky-oh-us-sample-746041",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/746041/beamstation_746041_restaurants-us-huntingtonashlandwvkyoh_SAMPLE_DIST.csv",
+  "sample_pct": 9.85,
+  "sample_records": 51,
+  "sample_sha256": "c98ad2f2983a640337f5a99a51fddc6b1d254745f3c740f852ea35bbde1ee3ae",
+  "sample_size_bytes": 197224,
+  "total_records": 518,
+  "updated_at": "2026-04-09T15:32:04.507546+00:00"
+}
