@@ -9,9 +9,9 @@
 | Dataset ID | `746041` |
 | Location | Huntington-Ashland, WV-KY-OH |
 | Category | Restaurants |
-| Full dataset size | 518 records |
-| Free sample size | 51 records (9.85%) |
-| Last export | 2026-04-09T15:32:04.507546+00:00 |
+| Full dataset size | 516 records |
+| Free sample size | 51 records (9.88%) |
+| Last export | 2026-04-16T18:11:53.093500+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-huntington-ashland-metro-wv-ky-oh-us-sample-746041/releases/download/sample-latest/beamstation_746041_restaurants-us-huntingtonashlandwvkyoh_SAMPLE_DIST.csv) |
 
 ## What is in this sample
