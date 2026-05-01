@@ -1,6 +1,6 @@
 # All Restaurants in Huntington-Ashland (Metro), WV-KY-OH, US
 
-> Free BeamStation sample export with 26 rows and masked direct-contact fields.
+> Free BeamStation sample export with 70 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `746041` |
 | Location | Huntington-Ashland, WV-KY-OH |
 | Category | Restaurants |
-| Full dataset size | 268 records |
-| Free sample size | 26 records (9.7%) |
-| Last export | 2026-04-23T14:29:46.117456+00:00 |
+| Full dataset size | 703 records |
+| Free sample size | 70 records (9.96%) |
+| Last export | 2026-05-01T03:19:17.752225+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-huntington-ashland-metro-wv-ky-oh-us-sample-746041/releases/download/sample-latest/beamstation_746041_restaurants-us-huntingtonashlandwvkyoh_SAMPLE_DIST.csv) |
 
 ## What is in this sample
