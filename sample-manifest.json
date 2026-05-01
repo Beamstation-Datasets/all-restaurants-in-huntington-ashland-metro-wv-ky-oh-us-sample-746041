@@ -1,12 +1,12 @@
 {
-  "export_job_id": "aa242164-2fb6-413b-a420-e9b7eaf0ce94",
+  "export_job_id": "013f62ab-a44d-43d3-b0ad-35f1b0a4b140",
   "id_short": 746041,
-  "published_at": "2026-04-23T19:12:49Z",
+  "published_at": "2026-05-01T07:05:27Z",
   "repo_name": "all-restaurants-in-huntington-ashland-metro-wv-ky-oh-us-sample-746041",
   "sample_asset_name": "beamstation_746041_restaurants-us-huntingtonashlandwvkyoh_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/746041/beamstation_746041_restaurants-us-huntingtonashlandwvkyoh_SAMPLE_DIST.csv",
-  "sample_records": 26,
-  "sample_sha256": "ee2ac5fdf482af15ea13681e53a4c59feebf77384a432217468fbde629d5aa08",
-  "sample_size_bytes": 110459,
-  "total_records": 268
+  "sample_records": 70,
+  "sample_sha256": "579be452d397dce372e6bf35617ca2e37d05ed24e993cb2da1aa57a6d885991e",
+  "sample_size_bytes": 246044,
+  "total_records": 703
 }
